@@ -16,10 +16,10 @@
 <h3 align="center">Web Development </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/profile/dkobi16" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dion-kobi-b1186b312/" target="blank"><img align="center" src="https://res.cloudinary.com/dzsvjyxrf/image/upload/v1744011128/linkedin_xjfgzq.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/diyoncrz_/" target="blank"><img align="center" src="https://res.cloudinary.com/dzsvjyxrf/image/upload/v1744010926/instagram_fyx3d4.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://web.facebook.com/profile.php?id=100009843961085" target="blank"><img align="center" src="https://res.cloudinary.com/dzsvjyxrf/image/upload/v1744011127/facebook_lrildg.png" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: dkobi16@gmail.com"><img align="center" src="https://res.cloudinary.com/dzsvjyxrf/image/upload/v1744011128/gmail_om88mz.png" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dion-kobi-b1186b312/" target="blank"><img align="center" src="https://res.cloudinary.com/dzsvjyxrf/image/upload/v1744011128/linkedin_xjfgzq.png" alt="lin_ovindu" height="30" width="30" /></a>  
+<a href="https://www.instagram.com/diyoncrz_/" target="blank"><img align="center" src="https://res.cloudinary.com/dzsvjyxrf/image/upload/v1744010926/instagram_fyx3d4.png" alt="insta_ovindu" height="30" width="30" /></a>
+<a href="https://web.facebook.com/profile.php?id=100009843961085" target="blank"><img align="center" src="https://res.cloudinary.com/dzsvjyxrf/image/upload/v1744011127/facebook_lrildg.png" alt="fb_ovindu" height="30" width="30" /></a>
+ <a href = "mailto: dkobi16@gmail.com"><img align="center" src="https://res.cloudinary.com/dzsvjyxrf/image/upload/v1744011128/gmail_om88mz.png" height="30" width="30" /></a>
 </p>
 </p>
 
