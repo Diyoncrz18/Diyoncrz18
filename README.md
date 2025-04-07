@@ -65,14 +65,11 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diyoncrz18&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
-" alt="ovi" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diyoncrz18&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 <hr>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Diyoncrz18&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Diyoncrz18&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
