@@ -50,7 +50,7 @@
   <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/html.svg"></code>
   <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/css.svg"> </code>
   <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/javascript.svg"> </code>
-  <code> <img height="50" src="http://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/typescript.svg"> </code>
+  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/typescript.svg"> </code>
   <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/python.svg"> </code>
   <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/bootstrap.svg"> </code>
   <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/react.svg"> </code>
