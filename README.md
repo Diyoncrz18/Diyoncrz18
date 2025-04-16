@@ -25,7 +25,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Dion Kobi, a student from <a href="https://uom.lk/"> <b>Universitas Klabat</b>, Airmadidi (" Pathway to Excellence ")</a>. <br>
+    Hello, I am Dion Kobi, a student from <a href="https://www.unklab.ac.id/"> <b>Universitas Klabat</b>, Airmadidi (" Pathway to Excellence ")</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/Developer.gif" width="30px"> and a <b>Web Development</b>&nbsp;<img src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>deeply</b>
     interested in the world of<b>web development</b> and always strives to find creative solutions through technology.
   </em> 
