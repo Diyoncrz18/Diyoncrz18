@@ -50,18 +50,42 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/html.svg" alt="HTML Logo">
   </a>
-  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/css.svg"> </code>
-  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/javascript.svg"> </code>
-  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/typescript.svg"> </code>
-  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/python.svg"> </code>
-  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/bootstrap.svg"> </code>
-  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/react.svg"> </code>
-  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/tailwind.svg"> </code>
-  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/nodejs.svg"> </code>
-  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/postman.svg"> </code>
-  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/figma.svg"> </code>
-  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/mysql.svg"> </code>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/css.svg" alt="CSS Logo">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/javascript.svg" alt="JS Logo">
+  </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/typescript.svg" alt="TS Logo">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/python.svg" alt="Python Logo">
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/bootstrap.svg" alt="Bootstrap Logo">
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/react.svg" alt="React Logo">
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/tailwind.svg" alt="Tailwind Logo">
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/nodejs.svg" alt="NodeJS Logo">
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/postman.svg" alt="Postman Logo">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/git.svg" alt="Git Logo">
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/figma.svg" alt="Figma Logo">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/mysql.svg" alt="MySql Logo">
+  </a>
 
   <hr>
   <p align="center">
