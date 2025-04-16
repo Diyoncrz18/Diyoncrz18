@@ -47,7 +47,9 @@
 
 <p align="left">
   
-  <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/html.svg"></code>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/html.svg" alt="HTML Logo">
+  </a>
   <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/css.svg"> </code>
   <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/javascript.svg"> </code>
   <code> <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/typescript.svg"> </code>
