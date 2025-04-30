@@ -45,7 +45,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_My working tools..._**
 
-<p align="left">
+<p align="center">
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/html.svg" alt="HTML Logo">
