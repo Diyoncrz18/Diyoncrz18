@@ -86,6 +86,9 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/mysql.svg" alt="MySql Logo">
   </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img height="50" src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/skill/mongodb-svgrepo-com.svg" alt="MySql Logo">
+  </a>
 
   <hr>
   <p align="center">
