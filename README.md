@@ -175,15 +175,15 @@ const dion = {
 <br />
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Diyoncrz18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Diyoncrz18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyoncrz18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyoncrz18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diyoncrz18&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+  <img src="https://streak-stats.demolab.com/?user=Diyoncrz18&theme=tokyonight&hide_border=true" />
 </div>
 
 <br />
@@ -202,14 +202,14 @@ const dion = {
 
 <br />
 
-<!-- Snake Contribution -->
-<div align="center">
+<!-- Snake Contribution - akan muncul setelah GitHub Actions workflow dijalankan -->
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diyoncrz18/Diyoncrz18/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diyoncrz18/Diyoncrz18/output/github-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Diyoncrz18/Diyoncrz18/output/github-snake.svg" />
   </picture>
-</div>
+</div> -->
 
 <br />
 
