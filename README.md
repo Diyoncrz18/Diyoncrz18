@@ -22,6 +22,9 @@
   <br /><br />
 
   <!-- Social Links -->
+  <a href="https://diyonsite.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/dion-kobi-b1186b312/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -75,6 +78,7 @@ const dion = {
 
 <br />
 
+- 🌐 Check out my portfolio: **[diyonsite.my.id](https://diyonsite.my.id)**
 - 🎓 Studying at **[Universitas Klabat](https://www.unklab.ac.id/)** — *"Pathway to Excellence"*
 - 💼 Building full-stack **web & mobile** applications
 - 🌱 Currently exploring **Cloud Architecture** & **System Design**
