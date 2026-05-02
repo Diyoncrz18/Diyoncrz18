@@ -3,7 +3,7 @@
 
 <!-- Profile Avatar & Typing Animation -->
 <div align="center">
-  <img src="https://github.com/Diyoncrz18/AssetCodeIcon/blob/main/Assets/dino.gif" height="140" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk1ZGRseWc3cWdycDhoZWh4ZXFqeHphYTd0YWl3N2xiMzBmcjJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" height="140" />
 
   <br />
 
@@ -50,10 +50,6 @@
 
 <br />
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="65%">
-
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk1ZGRseWc3cWdycDhoZWh4ZXFqeHphYTd0YWl3N2xiMzBmcjJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="28"> &nbsp; About Me
 
 ```typescript
@@ -76,13 +72,6 @@ const dion = {
   motto:   "Life is full of choices... choose wisely! ✨",
 };
 ```
-
-  </td>
-    <td valign="middle" align="center" width="35%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk1ZGRseWc3cWdycDhoZWh4ZXFqeHphYTd0YWl3N2xiMzBmcjJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="220" alt="coding gif" />
-    </td>
-  </tr>
-</table>
 
 <br />
 
