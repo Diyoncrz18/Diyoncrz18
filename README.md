@@ -50,9 +50,11 @@
 
 <br />
 
-<img align="right" width="200" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" width="65%">
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; About Me
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk1ZGRseWc3cWdycDhoZWh4ZXFqeHphYTd0YWl3N2xiMzBmcjJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="28"> &nbsp; About Me
 
 ```typescript
 const dion = {
@@ -70,10 +72,17 @@ const dion = {
   },
 
   currentlyLearning: ["System Design", "Cloud Architecture"],
-  funFact: "I code until 3AM and call it 'productivity' 🌙",
+  funFact: "I code until 3AM, I call it 'productivity' 🌙",
   motto:   "Life is full of choices... choose wisely! ✨",
 };
 ```
+
+  </td>
+    <td valign="middle" align="center" width="35%">
+      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="220" alt="coding gif" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
