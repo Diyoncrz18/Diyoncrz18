@@ -134,7 +134,7 @@ const dion = {
 <br />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase,redis&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,redis&perline=5" />
 </p>
 
 <p align="center">
