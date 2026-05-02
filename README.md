@@ -79,7 +79,7 @@ const dion = {
 
   </td>
     <td valign="middle" align="center" width="35%">
-      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="220" alt="coding gif" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk1ZGRseWc3cWdycDhoZWh4ZXFqeHphYTd0YWl3N2xiMzBmcjJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="220" alt="coding gif" />
     </td>
   </tr>
 </table>
