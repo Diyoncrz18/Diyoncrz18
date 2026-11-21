@@ -19,7 +19,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,java,spring,php,laravel,python,mysql,postgres,mongodb,firebase,redis,docker,git,linux&perline=10&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,astro,tailwind,nodejs,express,java,spring,kotlin,cs,php,laravel,python,tensorflow,sklearn,mysql,postgres,mongodb,firebase,redis,docker,git,github,linux,powershell,vscode,vercel,postman,figma&perline=11&theme=dark" alt="Tech stack" />
 </p>
 
 <p align="center">
@@ -27,6 +27,10 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
 </p>
 
 ## 📊 GitHub Analytics
