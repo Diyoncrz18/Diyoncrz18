@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer • AI Automation • Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://diyonsite.my.id">
+  <a href="https://diyondev.my.id">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Automation+Enthusiast;React+%7C+Next.js+%7C+Spring+Boot+%7C+Laravel" alt="Typing SVG" />
   </a>
 </p>
@@ -10,7 +10,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://diyonsite.my.id"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://diyondev.my.id"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/dion-kobi-b1186b312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.hackerrank.com/profile/dkobi16"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="mailto:dkobi16@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
