@@ -19,7 +19,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,astro,tailwind,nodejs,express,java,spring,kotlin,cs,php,laravel,python,tensorflow,sklearn,mysql,postgres,mongodb,firebase,redis,docker,git,github,linux,powershell,vscode,vercel,postman,figma&perline=11&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,astro,tailwind,nodejs,express,java,spring,kotlin,cs,php,laravel,python,tensorflow,sklearn,mysql,postgres,mongodb,firebase,redis,docker,git,github,linux,vercel,postman,figma&perline=11&theme=dark" alt="Tech stack" />
 </p>
 
 <p align="center">
